@@ -1,0 +1,5 @@
+# Project exclude paths
+/.next/
+/app/_document.js
+/app/_document.js.map
+/node_modules/
